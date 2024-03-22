@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Serhii and I Transitioned from a role as Chief of Production at a concrete reinforce
 elements plant to pursuing a career in DevOps engineering. Currently
